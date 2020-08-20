@@ -1,4 +1,4 @@
-# spring-test React App
+# spring-test react App
 
 **Prerequisites:**
 [NodeJS](https://nodejs.org/en/) || 
@@ -16,7 +16,6 @@ git clone https://github.com/tarikulcse2/spring-test-react-app.git
 
 ### Client-Side Application Run
 ```bash
-cd client
 npm install
 npm start
 ```
